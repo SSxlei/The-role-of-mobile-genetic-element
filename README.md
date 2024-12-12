@@ -1,0 +1,1 @@
+This includes a description of the methods used and the generated data from "Mobilome-mediated transcriptional activation of biosynthetic gene clusters and its impact on strain competitiveness in food fermentation microbiomes".
